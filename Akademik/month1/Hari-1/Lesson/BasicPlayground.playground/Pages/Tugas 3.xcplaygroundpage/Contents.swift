@@ -16,7 +16,7 @@ var username: String? = nil // nilai value nil (kosong)
 username = "malik"
 username = nil // Value terkhir nil, jadi 
 
-let displayName = username ?? "Guest"
+let displayName = username ?? "Guest" // ?? jika username memiliki isi, maka akan memakai username, jika tidak akan mengisi guest
 print("Welcome, \(displayName)")
 
 

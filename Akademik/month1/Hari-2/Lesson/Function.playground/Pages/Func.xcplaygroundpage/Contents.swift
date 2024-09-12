@@ -1,7 +1,5 @@
 import UIKit
 
-var greeting = "Hello, playground"
-
 // MARK: cara membuat fungsi
 
 func sayHello() {

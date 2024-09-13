@@ -153,6 +153,7 @@ func tampilkanNilai(nilaiSiswa: [Int]) {
 let dataNilai = [54,78,92,98,86,79,50,95,88]
 print(dataNilai)
 
+tampilkanNilai(nilaiSiswa: dataNilai)
 // ====================================================================================================================
 
 func calculatingRectangleArea(width: Double, lenght: Double) -> (area: Double, keliling: Double) {

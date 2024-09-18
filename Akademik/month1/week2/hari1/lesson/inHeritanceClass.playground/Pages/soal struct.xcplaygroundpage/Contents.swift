@@ -2,6 +2,12 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
+struct Person {
+    var name: String
+    var age: Int
+}
 
-//: [Next](@next)
+var john = Person(name: "John", age: 25)
+print("nama \(john.name), usia \(john.age)")
+
+

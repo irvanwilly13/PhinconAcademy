@@ -1,6 +1,8 @@
 //: [Previous](@previous)
 
 import Foundation
+// 2. BUAT PROGREAM CONSITIONAL MENGGUNAKAN IF ELSE -> MENGANDUNG OPERATOR LOGIKA DAN PERBANDINGAN >= <=, && ||
+
 
 var nilaiUjian: Int = 95
 var absensi: Int = 87

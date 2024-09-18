@@ -2,6 +2,9 @@
 
 import Foundation
 
+// 10. BUATLAH SEBUAH CLASS YANG MEMILIKI INIT, PROPERTI DAN METHODE
+
+
 class Lingkaran {
     var jariJari: Double
     let phi: Double = Double.pi

@@ -16,3 +16,5 @@ let myBook = Book(title: "Swift Programming", pages: 300)
 
 print("Judul buku \(myBook.title)")
 print("jumlah halam \(myBook.pages)")
+
+

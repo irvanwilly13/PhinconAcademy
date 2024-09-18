@@ -2,6 +2,14 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
+class Circle {
+    var area: Double = 0.0 {
+        didSet {
+            print ("radius ter update menjadi \(area)")
+        }
+    }
+}
 
-//: [Next](@next)
+let circle = Circle()
+circle.area = 50
+

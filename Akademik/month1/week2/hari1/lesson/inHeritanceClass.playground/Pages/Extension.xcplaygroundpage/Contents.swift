@@ -2,6 +2,4 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
-
-//: [Next](@next)
+// MARK: UNTUK MENAMBAHKAN FUNC

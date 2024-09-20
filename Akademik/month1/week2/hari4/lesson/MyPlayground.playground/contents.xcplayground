@@ -9,5 +9,6 @@
         <page name='protocool delegate'/>
         <page name='Queue'/>
         <page name='Async Await'/>
+        <page name='A1'/>
     </pages>
 </playground>
